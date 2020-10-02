@@ -12,3 +12,5 @@ ReactDOM.render(
   </MyContext.Provider>,
   rootElement
 );
+
+//challenge:create method to update home count at global state
